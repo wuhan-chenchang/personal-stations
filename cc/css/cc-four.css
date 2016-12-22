@@ -1,0 +1,26 @@
+@charset "utf-8";
+body,html{
+	font-family: "微软雅黑";
+}
+.cc-one,.cc-two,.cc-three{
+	width:33.3%;
+	height:100%;
+	float: left;
+	border-right:3px dashed #fff;
+}
+#slide_four .cc-three{
+	border-right:none;
+}
+ h2{
+ 	padding:50px 0px 0px 155px;
+ 	font-size:35px;
+ 	color: white;
+ 	font-weight: bold;
+ }
+p{  line-height: 20px;
+	margin-top:20px;
+	text-indent:30px;
+	color: white;
+ 	font-weight: bold;
+ 	
+}
